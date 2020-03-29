@@ -4,9 +4,13 @@ const routes = require('./routes');
 
 const app = express();
 
-app.use(cors);
+app.use(cors({
+    // origin:'http://meuapp.com' #Para ambiente de produção
+}));
 app.use(express.json());
 app.use(routes);
+
+
 
 app.listen(3333);
 
