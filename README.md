@@ -7,4 +7,4 @@ npm start
 ```
 
 
-![Image description]("./Certifica OmniStack")
+![Image description]("./Certifica OmniStack.png")
