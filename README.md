@@ -7,4 +7,4 @@ npm start
 ```
 
 
-![Image description]("https://raw.githubusercontent.com/bferronato/semanaomnistack11/master/Certifica%20OmniStack.png")
+![Image description]("https://github.com/bferronato/semanaomnistack11/blob/master/Certifica%20OmniStack.png?raw")
